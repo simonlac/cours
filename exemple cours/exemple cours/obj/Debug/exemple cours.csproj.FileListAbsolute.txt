@@ -1,0 +1,8 @@
+H:\windows programming\exemple cours\exemple cours\bin\Debug\exemple cours.exe.config
+H:\windows programming\exemple cours\exemple cours\bin\Debug\exemple cours.exe
+H:\windows programming\exemple cours\exemple cours\bin\Debug\exemple cours.pdb
+H:\windows programming\exemple cours\exemple cours\obj\Debug\exemple cours.csproj.AssemblyReference.cache
+H:\windows programming\exemple cours\exemple cours\obj\Debug\exemple cours.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\exemple cours\exemple cours\obj\Debug\exemple cours.csproj.CoreCompileInputs.cache
+H:\windows programming\exemple cours\exemple cours\obj\Debug\exemple cours.exe
+H:\windows programming\exemple cours\exemple cours\obj\Debug\exemple cours.pdb
